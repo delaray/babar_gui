@@ -21,3 +21,4 @@ Wait a bit, then browse to [http://localhost:3449](http://localhost:3449).
 lein clean
 lein cljsbuild once min
 ```
+The Babar Knowledge Browser
